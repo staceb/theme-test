@@ -1,12 +1,12 @@
-# Notes on compiling "modern" software on Zaurus 
+# Notes on compiling "modern" software on Zaurus     
 
-## Introduction
+## Introduction      
 
 Given: Zaurus C3000 with installed [pdaXii3](http://www.users.on.net/~hluc/myZaurus/pdaxii13.html)
 
-## Software
+## Software      
 
-### Git
+### Git      
 
 Using git 2.11.0
 1. Need to patch Makefile. Find the line 
